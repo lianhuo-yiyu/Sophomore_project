@@ -1,0 +1,168 @@
+C:\$Recycle.Bin\
+S-1-5-18
+['desktop.ini']
+[*]用户:systemprofile曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-1563452593-1233933528-3153328284-500
+['desktop.ini']
+[*]用户:S-1-5-21-1563452593-1233933528-3153328284-500曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-2417925224-3781450511-411591491-1000
+['desktop.ini']
+[*]用户:S-1-5-21-2417925224-3781450511-411591491-1000曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-2417925224-3781450511-411591491-1001
+['$I0M0EX8.PNG', '$I13ZD35.PNG', '$I1SEUDM.docx', '$I2DI4ZQ.png', '$I2I6SGX.lnk', '$I2YG702.png', '$I5LSE17.doc', '$I5Z42IB.docx', '$I76HTL8.pptx', '$I7FH94F.lnk', '$I7LYXYP', '$I8F8O8E.png', '$I8OTEFW.PNG', '$I8U55LA.lnk', '$I90GRW4.exe', '$I955G0H.docx', '$I9IHQVP.png', '$I9NWTKX.docx', '$IA9HDOW.PNG', '$IAK5PRD.ppt', '$IAQLJLO.txt', '$IAYI74Y.lnk', '$IB71LZD.lnk', '$IBF5J9J.txt', '$IBVX3ME.png', '$IC5C0SI.txt', '$ICCANWO.pptx', '$IDAZS8K', '$IDIDW16.PNG', '$IDTBN5T.PNG', '$IEBSWL4', '$IEVQ6Y5.rar', '$IF2N53I.pptx', '$IF5G5W6.PNG', '$IGBUCU4.png', '$IGRRACR.PNG', '$IH0OJ39.exe', '$IH8ZLIN', '$IHH95MS.cap', '$IILYOXM.lnk', '$IKDFT3X.PNG', '$IMHR8SQ.png', '$IMTDIVJ', '$INQ4Q4F.PNG', '$IORC579', '$IP49CT2.PNG', '$IPSO0QQ.spyder-py3', '$IQG3P60.lnk', '$IQQNJJN.png', '$IRUXEXR', '$ISGALQI', '$ISH2TI8.cap', '$ISHRVH6.PNG', '$ITWSHIL.png', '$IU09RIG.dll', '$IU25Z2T', '$IUAXAKE.pptx', '$IVBJ8TP.txt', '$IVG9EFK.html', '$IVSVF7Y.png', '$IVX623K.doc', '$IWQ8LTR.txt', '$IY5JYPT.lnk', '$IYT4M7O.png', '$IZ2WTWE.txt', '$IZHFWRW.docx', '$R0M0EX8.PNG', '$R13ZD35.PNG', '$R2DI4ZQ.png', '$R2YG702.png', '$R76HTL8.pptx', '$R7FH94F.lnk', '$R7LYXYP', '$R8F8O8E.png', '$R8OTEFW.PNG', '$R8U55LA.lnk', '$R90GRW4.exe', '$R9IHQVP.png', '$RA9HDOW.PNG', '$RAQLJLO.txt', '$RAYI74Y.lnk', '$RBF5J9J.txt', '$RBVX3ME.png', '$RC5C0SI.txt', '$RDIDW16.PNG', '$RDTBN5T.PNG', '$REBSWL4', '$RF5G5W6.PNG', '$RGBUCU4.png', '$RGRRACR.PNG', '$RHH95MS.cap', '$RILYOXM.lnk', '$RKDFT3X.PNG', '$RMHR8SQ.png', '$RNQ4Q4F.PNG', '$RORC579', '$RP49CT2.PNG', '$RPSO0QQ.spyder-py3', '$RQG3P60.lnk', '$RQQNJJN.png', '$RRUXEXR', '$RSH2TI8.cap', '$RSHRVH6.PNG', '$RTWSHIL.png', '$RU09RIG.dll', '$RU25Z2T', '$RUAXAKE.pptx', '$RVBJ8TP.txt', '$RVSVF7Y.png', '$RWQ8LTR.txt', '$RYT4M7O.png', '$RZHFWRW.docx', 'desktop.ini']
+[*]用户:17546曾经删除过的文件
+[+]Found File:$I0M0EX8.PNG
+[+]Found File:$I13ZD35.PNG
+[+]Found File:$I1SEUDM.docx
+[+]Found File:$I2DI4ZQ.png
+[+]Found File:$I2I6SGX.lnk
+[+]Found File:$I2YG702.png
+[+]Found File:$I5LSE17.doc
+[+]Found File:$I5Z42IB.docx
+[+]Found File:$I76HTL8.pptx
+[+]Found File:$I7FH94F.lnk
+[+]Found File:$I7LYXYP
+[+]Found File:$I8F8O8E.png
+[+]Found File:$I8OTEFW.PNG
+[+]Found File:$I8U55LA.lnk
+[+]Found File:$I90GRW4.exe
+[+]Found File:$I955G0H.docx
+[+]Found File:$I9IHQVP.png
+[+]Found File:$I9NWTKX.docx
+[+]Found File:$IA9HDOW.PNG
+[+]Found File:$IAK5PRD.ppt
+[+]Found File:$IAQLJLO.txt
+[+]Found File:$IAYI74Y.lnk
+[+]Found File:$IB71LZD.lnk
+[+]Found File:$IBF5J9J.txt
+[+]Found File:$IBVX3ME.png
+[+]Found File:$IC5C0SI.txt
+[+]Found File:$ICCANWO.pptx
+[+]Found File:$IDAZS8K
+[+]Found File:$IDIDW16.PNG
+[+]Found File:$IDTBN5T.PNG
+[+]Found File:$IEBSWL4
+[+]Found File:$IEVQ6Y5.rar
+[+]Found File:$IF2N53I.pptx
+[+]Found File:$IF5G5W6.PNG
+[+]Found File:$IGBUCU4.png
+[+]Found File:$IGRRACR.PNG
+[+]Found File:$IH0OJ39.exe
+[+]Found File:$IH8ZLIN
+[+]Found File:$IHH95MS.cap
+[+]Found File:$IILYOXM.lnk
+[+]Found File:$IKDFT3X.PNG
+[+]Found File:$IMHR8SQ.png
+[+]Found File:$IMTDIVJ
+[+]Found File:$INQ4Q4F.PNG
+[+]Found File:$IORC579
+[+]Found File:$IP49CT2.PNG
+[+]Found File:$IPSO0QQ.spyder-py3
+[+]Found File:$IQG3P60.lnk
+[+]Found File:$IQQNJJN.png
+[+]Found File:$IRUXEXR
+[+]Found File:$ISGALQI
+[+]Found File:$ISH2TI8.cap
+[+]Found File:$ISHRVH6.PNG
+[+]Found File:$ITWSHIL.png
+[+]Found File:$IU09RIG.dll
+[+]Found File:$IU25Z2T
+[+]Found File:$IUAXAKE.pptx
+[+]Found File:$IVBJ8TP.txt
+[+]Found File:$IVG9EFK.html
+[+]Found File:$IVSVF7Y.png
+[+]Found File:$IVX623K.doc
+[+]Found File:$IWQ8LTR.txt
+[+]Found File:$IY5JYPT.lnk
+[+]Found File:$IYT4M7O.png
+[+]Found File:$IZ2WTWE.txt
+[+]Found File:$IZHFWRW.docx
+[+]Found File:$R0M0EX8.PNG
+[+]Found File:$R13ZD35.PNG
+[+]Found File:$R2DI4ZQ.png
+[+]Found File:$R2YG702.png
+[+]Found File:$R76HTL8.pptx
+[+]Found File:$R7FH94F.lnk
+[+]Found File:$R7LYXYP
+[+]Found File:$R8F8O8E.png
+[+]Found File:$R8OTEFW.PNG
+[+]Found File:$R8U55LA.lnk
+[+]Found File:$R90GRW4.exe
+[+]Found File:$R9IHQVP.png
+[+]Found File:$RA9HDOW.PNG
+[+]Found File:$RAQLJLO.txt
+[+]Found File:$RAYI74Y.lnk
+[+]Found File:$RBF5J9J.txt
+[+]Found File:$RBVX3ME.png
+[+]Found File:$RC5C0SI.txt
+[+]Found File:$RDIDW16.PNG
+[+]Found File:$RDTBN5T.PNG
+[+]Found File:$REBSWL4
+[+]Found File:$RF5G5W6.PNG
+[+]Found File:$RGBUCU4.png
+[+]Found File:$RGRRACR.PNG
+[+]Found File:$RHH95MS.cap
+[+]Found File:$RILYOXM.lnk
+[+]Found File:$RKDFT3X.PNG
+[+]Found File:$RMHR8SQ.png
+[+]Found File:$RNQ4Q4F.PNG
+[+]Found File:$RORC579
+[+]Found File:$RP49CT2.PNG
+[+]Found File:$RPSO0QQ.spyder-py3
+[+]Found File:$RQG3P60.lnk
+[+]Found File:$RQQNJJN.png
+[+]Found File:$RRUXEXR
+[+]Found File:$RSH2TI8.cap
+[+]Found File:$RSHRVH6.PNG
+[+]Found File:$RTWSHIL.png
+[+]Found File:$RU09RIG.dll
+[+]Found File:$RU25Z2T
+[+]Found File:$RUAXAKE.pptx
+[+]Found File:$RVBJ8TP.txt
+[+]Found File:$RVSVF7Y.png
+[+]Found File:$RWQ8LTR.txt
+[+]Found File:$RYT4M7O.png
+[+]Found File:$RZHFWRW.docx
+[+]Found File:desktop.ini
+
+S-1-5-21-2417925224-3781450511-411591491-1003
+['desktop.ini']
+[*]用户:S-1-5-21-2417925224-3781450511-411591491-1003曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-2417925224-3781450511-411591491-1004
+['desktop.ini']
+[*]用户:S-1-5-21-2417925224-3781450511-411591491-1004曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-2417925224-3781450511-411591491-1005
+['desktop.ini']
+[*]用户:S-1-5-21-2417925224-3781450511-411591491-1005曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-2417925224-3781450511-411591491-1009
+['desktop.ini']
+[*]用户:S-1-5-21-2417925224-3781450511-411591491-1009曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-2417925224-3781450511-411591491-1011
+['desktop.ini']
+[*]用户:S-1-5-21-2417925224-3781450511-411591491-1011曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-2417925224-3781450511-411591491-500
+['desktop.ini']
+[*]用户:S-1-5-21-2417925224-3781450511-411591491-500曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-2423150646-3130903084-1533921122-500
+['desktop.ini']
+[*]用户:S-1-5-21-2423150646-3130903084-1533921122-500曾经删除过的文件
+[+]Found File:desktop.ini
+

@@ -1,0 +1,277 @@
+C:\$Recycle.Bin\
+S-1-5-18
+['desktop.ini']
+[*]用户:systemprofile曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-1563452593-1233933528-3153328284-500
+['desktop.ini']
+[*]用户:S-1-5-21-1563452593-1233933528-3153328284-500曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-2417925224-3781450511-411591491-1000
+['desktop.ini']
+[*]用户:S-1-5-21-2417925224-3781450511-411591491-1000曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-2417925224-3781450511-411591491-1001
+['$I03RLXY.doc', '$I0MUEYF.tmp', '$I0N4KAF.docx', '$I0QZVQJ', '$I1SEUDM.docx', '$I1SN51E.log', '$I2I6SGX.lnk', '$I2NEZMB.doc', '$I2NPOSE.log', '$I2SPVFL.cap', '$I375QXX', '$I3HOSO7', '$I3OYH7F.docx', '$I45DLNW.doc', '$I4CDWAU.zip', '$I4M7LQE.jpg', '$I52EZZO.tmp', '$I54MH1O', '$I59TC0T.zip', '$I5DV0UL.PNG', '$I5JTO4Z.doc', '$I5LSE17.doc', '$I5Z42IB.docx', '$I62RJ4H.tmp', '$I69BR9Y', '$I6EJJZ7.rfc', '$I6RL6DJ.tmp', '$I8Q2ANR.vs', '$I8RKM3J.pptx', '$I93F3XT.tmp', '$I955G0H.docx', '$I9DXOLG.tmp', '$I9NWTKX.docx', '$IA3RHQJ.tmp', '$IA4MAOL.docx', '$IAK5PRD.ppt', '$IANHI96.pcapng', '$IB6ZVYN.tmp', '$IB71LZD.lnk', '$IB7N2PB.log', '$IBO7YNV.pcapng', '$IBY9DY7.docx', '$IC5BSN4.jpg%2F0', '$ICCANWO.pptx', '$ICLZTLJ.tmp', '$ICN3RFR.db', '$ICWFHB1.PNG', '$IDAZS8K', '$IE7VGOK.tmp', '$IEO66VQ.tmp', '$IERYCW6.data', '$IEVQ6Y5.rar', '$IF2N53I.pptx', '$IF46ZIK.jpg', '$IF89XNZ.ku4', '$IFK6UI1', '$IGQRVQD.doc', '$IH0OJ39.exe', '$IH8ZLIN', '$IHAF105.gz', '$IHD99TZ.jpg', '$IHLC5P7.jpg', '$IHTXYNQ.doc', '$II2ZUFP.txt', '$II96DDU.zip', '$IIH6BZ6.doc', '$IJH80VS.html', '$IJJAL2Y.zip', '$IJRBHJ0.tmp', '$IJZZN9J.bmp', '$IK8GCUN.log', '$IK8LA1R.qhgc', '$IKCPMHE.doc', '$IKG8FCE.pdf', '$IL9XIXP.log', '$ILEWJZF.tmp', '$ILEXFB7.apf', '$ILF0QL2.pcapng', '$ILFDJPE.zip', '$IMTDIVJ', '$IN01ZF2.docx', '$IN5CUTP.tmp', '$INOL9SR.zip', '$INPJYD5.tmp', '$IO0N3SP.pcapng', '$IOXAX9H', '$IP8U4Y6.PNG', '$IPEODNK.PNG', '$IPFDU87.doc', '$IPG53VA.pdf', '$IQTTCJR.png', '$IQTVO0S.tmp', '$IQYRF07.asd', '$IR950G6.zip', '$IRGWDUP.png', '$IRL5CL8.lnk', '$IS2LWSU.zip', '$IS43AH3.zip', '$ISGALQI', '$IT7HTWO.doc', '$ITK1X7I.pcapng', '$ITS1BJ8.PNG', '$ITYCXN2.tmp', '$IUQ1GDP.PNG', '$IUTAH09', '$IVG9EFK.html', '$IVWEAJF.exe', '$IVX623K.doc', '$IVYF35F.PNG', '$IX18RWA.zip', '$IXLDOM9.lnk', '$IXONX7O', '$IXRPG4A', '$IXTYOQA.tmp', '$IXUU8FB.png', '$IY5JYPT.lnk', '$IY8OOVG.log', '$IYX0S28.log', '$IYZANU2.PNG', '$IZ2WTWE.txt', '$R03RLXY.doc', '$R0MUEYF.tmp', '$R0N4KAF.docx', '$R0QZVQJ', '$R1SN51E.log', '$R2NEZMB.doc', '$R2NPOSE.log', '$R375QXX', '$R3HOSO7', '$R3OYH7F.docx', '$R45DLNW.doc', '$R4CDWAU.zip', '$R4M7LQE.jpg', '$R52EZZO.tmp', '$R54MH1O', '$R59TC0T.zip', '$R5DV0UL.PNG', '$R5JTO4Z.doc', '$R62RJ4H.tmp', '$R69BR9Y', '$R6EJJZ7.rfc', '$R6RL6DJ.tmp', '$R8Q2ANR.vs', '$R8RKM3J.pptx', '$R93F3XT.tmp', '$R9DXOLG.tmp', '$RA3RHQJ.tmp', '$RA4MAOL.docx', '$RANHI96.pcapng', '$RB6ZVYN.tmp', '$RB7N2PB.log', '$RBO7YNV.pcapng', '$RBY9DY7.docx', '$RC5BSN4.jpg%2F0', '$RCLZTLJ.tmp', '$RCN3RFR.db', '$RCWFHB1.PNG', '$RE7VGOK.tmp', '$REO66VQ.tmp', '$RERYCW6.data', '$RF46ZIK.jpg', '$RF89XNZ.ku4', '$RFK6UI1', '$RGQRVQD.doc', '$RHAF105.gz', '$RHD99TZ.jpg', '$RHLC5P7.jpg', '$RI2ZUFP.txt', '$RI96DDU.zip', '$RIH6BZ6.doc', '$RJH80VS.html', '$RJJAL2Y.zip', '$RJRBHJ0.tmp', '$RJZZN9J.bmp', '$RK8GCUN.log', '$RK8LA1R.qhgc', '$RKCPMHE.doc', '$RKG8FCE.pdf', '$RL9XIXP.log', '$RLEWJZF.tmp', '$RLEXFB7.apf', '$RLF0QL2.pcapng', '$RLFDJPE.zip', '$RN01ZF2.docx', '$RN5CUTP.tmp', '$RNOL9SR.zip', '$RNPJYD5.tmp', '$RO0N3SP.pcapng', '$ROXAX9H', '$RP8U4Y6.PNG', '$RPEODNK.PNG', '$RPFDU87.doc', '$RPG53VA.pdf', '$RQTTCJR.png', '$RQTVO0S.tmp', '$RRGWDUP.png', '$RRL5CL8.lnk', '$RRUXEXR', '$RS2LWSU.zip', '$RS43AH3.zip', '$RT7HTWO.doc', '$RTK1X7I.pcapng', '$RTS1BJ8.PNG', '$RTYCXN2.tmp', '$RUQ1GDP.PNG', '$RUTAH09', '$RVYF35F.PNG', '$RX18RWA.zip', '$RXLDOM9.lnk', '$RXONX7O', '$RXRPG4A', '$RXTYOQA.tmp', '$RXUU8FB.png', '$RY8OOVG.log', '$RYX0S28.log', '$RYZANU2.PNG', 'desktop.ini']
+[*]用户:17546曾经删除过的文件
+[+]Found File:$I03RLXY.doc
+[+]Found File:$I0MUEYF.tmp
+[+]Found File:$I0N4KAF.docx
+[+]Found File:$I0QZVQJ
+[+]Found File:$I1SEUDM.docx
+[+]Found File:$I1SN51E.log
+[+]Found File:$I2I6SGX.lnk
+[+]Found File:$I2NEZMB.doc
+[+]Found File:$I2NPOSE.log
+[+]Found File:$I2SPVFL.cap
+[+]Found File:$I375QXX
+[+]Found File:$I3HOSO7
+[+]Found File:$I3OYH7F.docx
+[+]Found File:$I45DLNW.doc
+[+]Found File:$I4CDWAU.zip
+[+]Found File:$I4M7LQE.jpg
+[+]Found File:$I52EZZO.tmp
+[+]Found File:$I54MH1O
+[+]Found File:$I59TC0T.zip
+[+]Found File:$I5DV0UL.PNG
+[+]Found File:$I5JTO4Z.doc
+[+]Found File:$I5LSE17.doc
+[+]Found File:$I5Z42IB.docx
+[+]Found File:$I62RJ4H.tmp
+[+]Found File:$I69BR9Y
+[+]Found File:$I6EJJZ7.rfc
+[+]Found File:$I6RL6DJ.tmp
+[+]Found File:$I8Q2ANR.vs
+[+]Found File:$I8RKM3J.pptx
+[+]Found File:$I93F3XT.tmp
+[+]Found File:$I955G0H.docx
+[+]Found File:$I9DXOLG.tmp
+[+]Found File:$I9NWTKX.docx
+[+]Found File:$IA3RHQJ.tmp
+[+]Found File:$IA4MAOL.docx
+[+]Found File:$IAK5PRD.ppt
+[+]Found File:$IANHI96.pcapng
+[+]Found File:$IB6ZVYN.tmp
+[+]Found File:$IB71LZD.lnk
+[+]Found File:$IB7N2PB.log
+[+]Found File:$IBO7YNV.pcapng
+[+]Found File:$IBY9DY7.docx
+[+]Found File:$IC5BSN4.jpg%2F0
+[+]Found File:$ICCANWO.pptx
+[+]Found File:$ICLZTLJ.tmp
+[+]Found File:$ICN3RFR.db
+[+]Found File:$ICWFHB1.PNG
+[+]Found File:$IDAZS8K
+[+]Found File:$IE7VGOK.tmp
+[+]Found File:$IEO66VQ.tmp
+[+]Found File:$IERYCW6.data
+[+]Found File:$IEVQ6Y5.rar
+[+]Found File:$IF2N53I.pptx
+[+]Found File:$IF46ZIK.jpg
+[+]Found File:$IF89XNZ.ku4
+[+]Found File:$IFK6UI1
+[+]Found File:$IGQRVQD.doc
+[+]Found File:$IH0OJ39.exe
+[+]Found File:$IH8ZLIN
+[+]Found File:$IHAF105.gz
+[+]Found File:$IHD99TZ.jpg
+[+]Found File:$IHLC5P7.jpg
+[+]Found File:$IHTXYNQ.doc
+[+]Found File:$II2ZUFP.txt
+[+]Found File:$II96DDU.zip
+[+]Found File:$IIH6BZ6.doc
+[+]Found File:$IJH80VS.html
+[+]Found File:$IJJAL2Y.zip
+[+]Found File:$IJRBHJ0.tmp
+[+]Found File:$IJZZN9J.bmp
+[+]Found File:$IK8GCUN.log
+[+]Found File:$IK8LA1R.qhgc
+[+]Found File:$IKCPMHE.doc
+[+]Found File:$IKG8FCE.pdf
+[+]Found File:$IL9XIXP.log
+[+]Found File:$ILEWJZF.tmp
+[+]Found File:$ILEXFB7.apf
+[+]Found File:$ILF0QL2.pcapng
+[+]Found File:$ILFDJPE.zip
+[+]Found File:$IMTDIVJ
+[+]Found File:$IN01ZF2.docx
+[+]Found File:$IN5CUTP.tmp
+[+]Found File:$INOL9SR.zip
+[+]Found File:$INPJYD5.tmp
+[+]Found File:$IO0N3SP.pcapng
+[+]Found File:$IOXAX9H
+[+]Found File:$IP8U4Y6.PNG
+[+]Found File:$IPEODNK.PNG
+[+]Found File:$IPFDU87.doc
+[+]Found File:$IPG53VA.pdf
+[+]Found File:$IQTTCJR.png
+[+]Found File:$IQTVO0S.tmp
+[+]Found File:$IQYRF07.asd
+[+]Found File:$IR950G6.zip
+[+]Found File:$IRGWDUP.png
+[+]Found File:$IRL5CL8.lnk
+[+]Found File:$IS2LWSU.zip
+[+]Found File:$IS43AH3.zip
+[+]Found File:$ISGALQI
+[+]Found File:$IT7HTWO.doc
+[+]Found File:$ITK1X7I.pcapng
+[+]Found File:$ITS1BJ8.PNG
+[+]Found File:$ITYCXN2.tmp
+[+]Found File:$IUQ1GDP.PNG
+[+]Found File:$IUTAH09
+[+]Found File:$IVG9EFK.html
+[+]Found File:$IVWEAJF.exe
+[+]Found File:$IVX623K.doc
+[+]Found File:$IVYF35F.PNG
+[+]Found File:$IX18RWA.zip
+[+]Found File:$IXLDOM9.lnk
+[+]Found File:$IXONX7O
+[+]Found File:$IXRPG4A
+[+]Found File:$IXTYOQA.tmp
+[+]Found File:$IXUU8FB.png
+[+]Found File:$IY5JYPT.lnk
+[+]Found File:$IY8OOVG.log
+[+]Found File:$IYX0S28.log
+[+]Found File:$IYZANU2.PNG
+[+]Found File:$IZ2WTWE.txt
+[+]Found File:$R03RLXY.doc
+[+]Found File:$R0MUEYF.tmp
+[+]Found File:$R0N4KAF.docx
+[+]Found File:$R0QZVQJ
+[+]Found File:$R1SN51E.log
+[+]Found File:$R2NEZMB.doc
+[+]Found File:$R2NPOSE.log
+[+]Found File:$R375QXX
+[+]Found File:$R3HOSO7
+[+]Found File:$R3OYH7F.docx
+[+]Found File:$R45DLNW.doc
+[+]Found File:$R4CDWAU.zip
+[+]Found File:$R4M7LQE.jpg
+[+]Found File:$R52EZZO.tmp
+[+]Found File:$R54MH1O
+[+]Found File:$R59TC0T.zip
+[+]Found File:$R5DV0UL.PNG
+[+]Found File:$R5JTO4Z.doc
+[+]Found File:$R62RJ4H.tmp
+[+]Found File:$R69BR9Y
+[+]Found File:$R6EJJZ7.rfc
+[+]Found File:$R6RL6DJ.tmp
+[+]Found File:$R8Q2ANR.vs
+[+]Found File:$R8RKM3J.pptx
+[+]Found File:$R93F3XT.tmp
+[+]Found File:$R9DXOLG.tmp
+[+]Found File:$RA3RHQJ.tmp
+[+]Found File:$RA4MAOL.docx
+[+]Found File:$RANHI96.pcapng
+[+]Found File:$RB6ZVYN.tmp
+[+]Found File:$RB7N2PB.log
+[+]Found File:$RBO7YNV.pcapng
+[+]Found File:$RBY9DY7.docx
+[+]Found File:$RC5BSN4.jpg%2F0
+[+]Found File:$RCLZTLJ.tmp
+[+]Found File:$RCN3RFR.db
+[+]Found File:$RCWFHB1.PNG
+[+]Found File:$RE7VGOK.tmp
+[+]Found File:$REO66VQ.tmp
+[+]Found File:$RERYCW6.data
+[+]Found File:$RF46ZIK.jpg
+[+]Found File:$RF89XNZ.ku4
+[+]Found File:$RFK6UI1
+[+]Found File:$RGQRVQD.doc
+[+]Found File:$RHAF105.gz
+[+]Found File:$RHD99TZ.jpg
+[+]Found File:$RHLC5P7.jpg
+[+]Found File:$RI2ZUFP.txt
+[+]Found File:$RI96DDU.zip
+[+]Found File:$RIH6BZ6.doc
+[+]Found File:$RJH80VS.html
+[+]Found File:$RJJAL2Y.zip
+[+]Found File:$RJRBHJ0.tmp
+[+]Found File:$RJZZN9J.bmp
+[+]Found File:$RK8GCUN.log
+[+]Found File:$RK8LA1R.qhgc
+[+]Found File:$RKCPMHE.doc
+[+]Found File:$RKG8FCE.pdf
+[+]Found File:$RL9XIXP.log
+[+]Found File:$RLEWJZF.tmp
+[+]Found File:$RLEXFB7.apf
+[+]Found File:$RLF0QL2.pcapng
+[+]Found File:$RLFDJPE.zip
+[+]Found File:$RN01ZF2.docx
+[+]Found File:$RN5CUTP.tmp
+[+]Found File:$RNOL9SR.zip
+[+]Found File:$RNPJYD5.tmp
+[+]Found File:$RO0N3SP.pcapng
+[+]Found File:$ROXAX9H
+[+]Found File:$RP8U4Y6.PNG
+[+]Found File:$RPEODNK.PNG
+[+]Found File:$RPFDU87.doc
+[+]Found File:$RPG53VA.pdf
+[+]Found File:$RQTTCJR.png
+[+]Found File:$RQTVO0S.tmp
+[+]Found File:$RRGWDUP.png
+[+]Found File:$RRL5CL8.lnk
+[+]Found File:$RRUXEXR
+[+]Found File:$RS2LWSU.zip
+[+]Found File:$RS43AH3.zip
+[+]Found File:$RT7HTWO.doc
+[+]Found File:$RTK1X7I.pcapng
+[+]Found File:$RTS1BJ8.PNG
+[+]Found File:$RTYCXN2.tmp
+[+]Found File:$RUQ1GDP.PNG
+[+]Found File:$RUTAH09
+[+]Found File:$RVYF35F.PNG
+[+]Found File:$RX18RWA.zip
+[+]Found File:$RXLDOM9.lnk
+[+]Found File:$RXONX7O
+[+]Found File:$RXRPG4A
+[+]Found File:$RXTYOQA.tmp
+[+]Found File:$RXUU8FB.png
+[+]Found File:$RY8OOVG.log
+[+]Found File:$RYX0S28.log
+[+]Found File:$RYZANU2.PNG
+[+]Found File:desktop.ini
+
+S-1-5-21-2417925224-3781450511-411591491-1003
+['desktop.ini']
+[*]用户:S-1-5-21-2417925224-3781450511-411591491-1003曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-2417925224-3781450511-411591491-1004
+['desktop.ini']
+[*]用户:S-1-5-21-2417925224-3781450511-411591491-1004曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-2417925224-3781450511-411591491-1005
+['desktop.ini']
+[*]用户:S-1-5-21-2417925224-3781450511-411591491-1005曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-2417925224-3781450511-411591491-1009
+['desktop.ini']
+[*]用户:S-1-5-21-2417925224-3781450511-411591491-1009曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-2417925224-3781450511-411591491-1011
+['desktop.ini']
+[*]用户:S-1-5-21-2417925224-3781450511-411591491-1011曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-2417925224-3781450511-411591491-1022
+['desktop.ini']
+[*]用户:S-1-5-21-2417925224-3781450511-411591491-1022曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-2417925224-3781450511-411591491-500
+['desktop.ini']
+[*]用户:S-1-5-21-2417925224-3781450511-411591491-500曾经删除过的文件
+[+]Found File:desktop.ini
+
+S-1-5-21-2423150646-3130903084-1533921122-500
+['desktop.ini']
+[*]用户:S-1-5-21-2423150646-3130903084-1533921122-500曾经删除过的文件
+[+]Found File:desktop.ini
+

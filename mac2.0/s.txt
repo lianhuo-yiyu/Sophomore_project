@@ -1,0 +1,21 @@
+计算机LAPTOP-JU00ED55浏览过以下的网络
+无线网宽带连接                网关地址mac             x0:x0:x0:x0:x0:x0:x0:x0
+无线网CMCC-3388           网关地址mac             24:cb:cb:ae:4e:60
+无线网YNU 2               网关地址mac             x0:x0:5e:x0:x1:x2
+无线网YNU                 网关地址mac             x0:x0:5e:x0:x1:x3
+无线网小米手机                网关地址mac             48:2c:a0:fe:bc:11
+无线网YNU 4               网关地址mac             9c:52:f8:ec:11:78
+无线网YNU 5               网关地址mac             9c:52:f8:ec:11:48
+无线网小米手机 5              网关地址mac             da:dd:x6:e3:aa:d2
+无线网小米手机 2              网关地址mac             48:2c:a0:77:bc:11
+无线网TP-LINK_BX          网关地址mac             ec:26:ca:88:bc:x2
+无线网YNU 3               网关地址mac             x0:x0:5e:x0:x1:x4
+无线网QHYXWL-HSL          网关地址mac             34:37:59:d7:x1:3b
+无线网YNU_lab             网关地址mac             x0:e0:fc:xf:66:37
+无线网ChinaNet-441        网关地址mac             52:3a:b1:5e:9f:d0
+无线网GSY                 网关地址mac             78:96:82:a7:41:d5
+无线网小米手机 4              网关地址mac             3a:41:dd:3f:c2:25
+无线网小米手机 3              网关地址mac             f6:21:92:a3:23:cc
+无线网ZTE-D7013B          网关地址mac             34:37:59:d7:x1:3b
+无线网QWHXE-HSL           网关地址mac             34:37:59:d7:x1:3b
+无线网YNU-2.4G            网关地址mac             x0:x0:5e:x0:x1:x2

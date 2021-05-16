@@ -1,0 +1,23 @@
+计算机LAPTOP-JU00ED55曾经浏览过这些网络
+宽带连接      对应的MAC地址  x0:x0:x0:x0:x0:x0:x0:x0
+CMCC-3388 对应的MAC地址  24:cb:cb:ae:4e:60
+YNU 2     对应的MAC地址  x0:x0:5e:x0:x1:x2
+YNU       对应的MAC地址  x0:x0:5e:x0:x1:x3
+小米手机      对应的MAC地址  48:2c:a0:fe:bc:11
+YNU 4     对应的MAC地址  9c:52:f8:ec:11:78
+小米手机 6    对应的MAC地址  c6:95:28:ba:5a:56
+YNU 5     对应的MAC地址  9c:52:f8:ec:11:48
+网络 2      对应的MAC地址  46:2f:51:c0:f9:e9
+小米手机 5    对应的MAC地址  da:dd:x6:e3:aa:d2
+小米手机 2    对应的MAC地址  48:2c:a0:77:bc:11
+TP-LINK_BX对应的MAC地址  ec:26:ca:88:bc:x2
+YNU 3     对应的MAC地址  x0:x0:5e:x0:x1:x4
+QHYXWL-HSL对应的MAC地址  34:37:59:d7:x1:3b
+YNU_lab   对应的MAC地址  x0:e0:fc:xf:66:37
+ChinaNet-441对应的MAC地址  52:3a:b1:5e:9f:d0
+GSY       对应的MAC地址  78:96:82:a7:41:d5
+小米手机 4    对应的MAC地址  3a:41:dd:3f:c2:25
+小米手机 3    对应的MAC地址  f6:21:92:a3:23:cc
+ZTE-D7013B对应的MAC地址  34:37:59:d7:x1:3b
+QWHXE-HSL 对应的MAC地址  34:37:59:d7:x1:3b
+YNU-2.4G  对应的MAC地址  x0:x0:5e:x0:x1:x2

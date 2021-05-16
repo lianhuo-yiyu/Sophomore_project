@@ -1,0 +1,164 @@
+计算机LAPTOP-JU00ED55浏览过以下的网络
+名称 FirstNetwork
+地址 b'\x00\x00\x00\x00\x00\x00\x00\x00'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'$\xcb\xcb\xaeN`'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'\x00\x00^\x00\x01\x02'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'\x00\x00^\x00\x01\x03'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'H,\xa0\xfe\xbc\x11'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'\x9cR\xf8\xec\x11x'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'\x9cR\xf8\xec\x11H'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'\xda\xdd\x06\xe3\xaa\xd2'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'H,\xa0w\xbc\x11'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'\xec&\xca\x88\xbc\x02'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'\x00\x00^\x00\x01\x04'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'47Y\xd7\x01;'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'\x00\x07}\xcf\x02\xff'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'\x00\xe0\xfc\x0ff7'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'R:\xb1^\x9f\xd0'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'x\x96\x82\xa7A\xd5'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b':A\xdd?\xc2%'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'\xf6!\x92\xa3#\xcc'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'47Y\xd7\x01;'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'47Y\xd7\x01;'
+类型 1
+chucuo
+名称 FirstNetwork
+地址 b'\x00\x00^\x00\x01\x02'
+类型 1
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
+chucuo
